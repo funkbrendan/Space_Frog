@@ -1,0 +1,4775 @@
+fileFormatVersion: 2
+guid: 950a6e129d08c3848814d1db2ca2627c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8155622441423709208
+    second: Itch release tileset base 01_0
+  - first:
+      213: 7382868020477198690
+    second: Itch release tileset base 01_1
+  - first:
+      213: -2699873253315277360
+    second: Itch release tileset base 01_2
+  - first:
+      213: -5894081751047997224
+    second: Itch release tileset base 01_3
+  - first:
+      213: -4493703411710704600
+    second: Itch release tileset base 01_4
+  - first:
+      213: 8831578074526385651
+    second: Itch release tileset base 01_5
+  - first:
+      213: 2485353363772910366
+    second: Itch release tileset base 01_6
+  - first:
+      213: -7042050522720612769
+    second: Itch release tileset base 01_7
+  - first:
+      213: -173903173143808429
+    second: Itch release tileset base 01_8
+  - first:
+      213: -8858678805854809519
+    second: Itch release tileset base 01_9
+  - first:
+      213: -2851222871375319261
+    second: Itch release tileset base 01_10
+  - first:
+      213: -1316989595859597899
+    second: Itch release tileset base 01_11
+  - first:
+      213: -1478240236231088654
+    second: Itch release tileset base 01_12
+  - first:
+      213: 3993859920106552788
+    second: Itch release tileset base 01_13
+  - first:
+      213: 1032354141582017950
+    second: Itch release tileset base 01_14
+  - first:
+      213: 634397664618079765
+    second: Itch release tileset base 01_15
+  - first:
+      213: 4863891500343072350
+    second: Itch release tileset base 01_16
+  - first:
+      213: -5015768290953147081
+    second: Itch release tileset base 01_17
+  - first:
+      213: -3664700854293325797
+    second: Itch release tileset base 01_18
+  - first:
+      213: -280250417707396907
+    second: Itch release tileset base 01_19
+  - first:
+      213: 8759169450266993684
+    second: Itch release tileset base 01_20
+  - first:
+      213: 8235744195545990665
+    second: Itch release tileset base 01_21
+  - first:
+      213: 5594599195258486335
+    second: Itch release tileset base 01_22
+  - first:
+      213: -4024867568216562482
+    second: Itch release tileset base 01_23
+  - first:
+      213: 4859258974077664253
+    second: Itch release tileset base 01_24
+  - first:
+      213: 7742746743587228328
+    second: Itch release tileset base 01_25
+  - first:
+      213: 7571275990178159289
+    second: Itch release tileset base 01_26
+  - first:
+      213: 6979216762966540239
+    second: Itch release tileset base 01_27
+  - first:
+      213: -3394562057909223723
+    second: Itch release tileset base 01_28
+  - first:
+      213: -184000951127563977
+    second: Itch release tileset base 01_29
+  - first:
+      213: -7623556670101450559
+    second: Itch release tileset base 01_30
+  - first:
+      213: 6661754976865915653
+    second: Itch release tileset base 01_31
+  - first:
+      213: -2579248852139575761
+    second: Itch release tileset base 01_32
+  - first:
+      213: -4475510390143632166
+    second: Itch release tileset base 01_33
+  - first:
+      213: -6035456126604646171
+    second: Itch release tileset base 01_34
+  - first:
+      213: -5307733659706550334
+    second: Itch release tileset base 01_35
+  - first:
+      213: 7044169165413411575
+    second: Itch release tileset base 01_36
+  - first:
+      213: -1653873985261084511
+    second: Itch release tileset base 01_37
+  - first:
+      213: -8662161030297341728
+    second: Itch release tileset base 01_38
+  - first:
+      213: 2368711078911738512
+    second: Itch release tileset base 01_39
+  - first:
+      213: -8759174047267222861
+    second: Itch release tileset base 01_40
+  - first:
+      213: -4376876858861643420
+    second: Itch release tileset base 01_41
+  - first:
+      213: -966473219012808648
+    second: Itch release tileset base 01_42
+  - first:
+      213: 4024134908353398187
+    second: Itch release tileset base 01_43
+  - first:
+      213: -8505086007870793700
+    second: Itch release tileset base 01_44
+  - first:
+      213: 2542815285341048719
+    second: Itch release tileset base 01_45
+  - first:
+      213: 4822525064111256374
+    second: Itch release tileset base 01_46
+  - first:
+      213: 7428950465372917428
+    second: Itch release tileset base 01_47
+  - first:
+      213: 94936009238622023
+    second: Itch release tileset base 01_48
+  - first:
+      213: -4368709259250021341
+    second: Itch release tileset base 01_49
+  - first:
+      213: 6958559904431749902
+    second: Itch release tileset base 01_50
+  - first:
+      213: 6073822963328926822
+    second: Itch release tileset base 01_51
+  - first:
+      213: 6482724665175195043
+    second: Itch release tileset base 01_52
+  - first:
+      213: -6058609734003916758
+    second: Itch release tileset base 01_53
+  - first:
+      213: 6387312658002994122
+    second: Itch release tileset base 01_54
+  - first:
+      213: -1670640396507849214
+    second: Itch release tileset base 01_55
+  - first:
+      213: -1520385956971670685
+    second: Itch release tileset base 01_56
+  - first:
+      213: -2353174481622661725
+    second: Itch release tileset base 01_57
+  - first:
+      213: 7554582457651268851
+    second: Itch release tileset base 01_58
+  - first:
+      213: 3473690372907417814
+    second: Itch release tileset base 01_59
+  - first:
+      213: -766978237105041785
+    second: Itch release tileset base 01_60
+  - first:
+      213: 1336757025135108614
+    second: Itch release tileset base 01_61
+  - first:
+      213: 3412390078258837949
+    second: Itch release tileset base 01_62
+  - first:
+      213: -4732527695203714449
+    second: Itch release tileset base 01_63
+  - first:
+      213: 6087793398211170808
+    second: Itch release tileset base 01_64
+  - first:
+      213: -8365092319932743759
+    second: Itch release tileset base 01_65
+  - first:
+      213: -6389761753425889748
+    second: Itch release tileset base 01_66
+  - first:
+      213: 4077212683867315936
+    second: Itch release tileset base 01_67
+  - first:
+      213: -2195583192317252339
+    second: Itch release tileset base 01_68
+  - first:
+      213: 474941240071040708
+    second: Itch release tileset base 01_69
+  - first:
+      213: 2295555399551429862
+    second: Itch release tileset base 01_70
+  - first:
+      213: -2357775153931561064
+    second: Itch release tileset base 01_71
+  - first:
+      213: -4694836992181843388
+    second: Itch release tileset base 01_72
+  - first:
+      213: 148406206279389484
+    second: Itch release tileset base 01_73
+  - first:
+      213: 6842811023201491764
+    second: Itch release tileset base 01_74
+  - first:
+      213: -301071154094116194
+    second: Itch release tileset base 01_75
+  - first:
+      213: -5934637800447714878
+    second: Itch release tileset base 01_76
+  - first:
+      213: -5458027005006261921
+    second: Itch release tileset base 01_77
+  - first:
+      213: -1252237855406599153
+    second: Itch release tileset base 01_78
+  - first:
+      213: 7783397091775149023
+    second: Itch release tileset base 01_79
+  - first:
+      213: -7724740292706291253
+    second: Itch release tileset base 01_80
+  - first:
+      213: -13434019485036429
+    second: Itch release tileset base 01_81
+  - first:
+      213: -3514295606129087022
+    second: Itch release tileset base 01_82
+  - first:
+      213: 7867065710669155110
+    second: Itch release tileset base 01_83
+  - first:
+      213: 732882761684640002
+    second: Itch release tileset base 01_84
+  - first:
+      213: -2387258730814721742
+    second: Itch release tileset base 01_85
+  - first:
+      213: 1940137637556784288
+    second: Itch release tileset base 01_86
+  - first:
+      213: -1168233887049071761
+    second: Itch release tileset base 01_87
+  - first:
+      213: -8035572298644177156
+    second: Itch release tileset base 01_88
+  - first:
+      213: -8926159240148158836
+    second: Itch release tileset base 01_89
+  - first:
+      213: 6013392488309716623
+    second: Itch release tileset base 01_90
+  - first:
+      213: 8522783870661138603
+    second: Itch release tileset base 01_91
+  - first:
+      213: 8843005455201224411
+    second: Itch release tileset base 01_92
+  - first:
+      213: -817451513690318530
+    second: Itch release tileset base 01_93
+  - first:
+      213: 1730661261071126482
+    second: Itch release tileset base 01_94
+  - first:
+      213: -3346656847465289991
+    second: Itch release tileset base 01_95
+  - first:
+      213: 5081895535140785495
+    second: Itch release tileset base 01_96
+  - first:
+      213: 1707983016731013740
+    second: Itch release tileset base 01_97
+  - first:
+      213: 394548999750046470
+    second: Itch release tileset base 01_98
+  - first:
+      213: 3106084933824991788
+    second: Itch release tileset base 01_99
+  - first:
+      213: 3134204649939546519
+    second: Itch release tileset base 01_100
+  - first:
+      213: -6415874517510012108
+    second: Itch release tileset base 01_101
+  - first:
+      213: 6334837048785698249
+    second: Itch release tileset base 01_102
+  - first:
+      213: 1768992403054243245
+    second: Itch release tileset base 01_103
+  - first:
+      213: 3723758587906073269
+    second: Itch release tileset base 01_104
+  - first:
+      213: -2537539803309113082
+    second: Itch release tileset base 01_105
+  - first:
+      213: 2012583228880878173
+    second: Itch release tileset base 01_106
+  - first:
+      213: -8931403548828360051
+    second: Itch release tileset base 01_107
+  - first:
+      213: 8059482189079811696
+    second: Itch release tileset base 01_108
+  - first:
+      213: 7520746335984670989
+    second: Itch release tileset base 01_109
+  - first:
+      213: -6167181571707759099
+    second: Itch release tileset base 01_110
+  - first:
+      213: -321745794999069685
+    second: Itch release tileset base 01_111
+  - first:
+      213: 507447075751164348
+    second: Itch release tileset base 01_112
+  - first:
+      213: 2670256088163799712
+    second: Itch release tileset base 01_113
+  - first:
+      213: -2240746115040923572
+    second: Itch release tileset base 01_114
+  - first:
+      213: 5596149464871201013
+    second: Itch release tileset base 01_115
+  - first:
+      213: 2705375887184611059
+    second: Itch release tileset base 01_116
+  - first:
+      213: -7950309032080890574
+    second: Itch release tileset base 01_117
+  - first:
+      213: 1313256927358537910
+    second: Itch release tileset base 01_118
+  - first:
+      213: 6537315498111628278
+    second: Itch release tileset base 01_119
+  - first:
+      213: 7797119389597016647
+    second: Itch release tileset base 01_120
+  - first:
+      213: -6043129731988286236
+    second: Itch release tileset base 01_121
+  - first:
+      213: -8785174056967875876
+    second: Itch release tileset base 01_122
+  - first:
+      213: -4892569294600621219
+    second: Itch release tileset base 01_123
+  - first:
+      213: 7235852570031675827
+    second: Itch release tileset base 01_124
+  - first:
+      213: -6168971442437991117
+    second: Itch release tileset base 01_125
+  - first:
+      213: -5637643928903288339
+    second: Itch release tileset base 01_126
+  - first:
+      213: -8887533484919585865
+    second: Itch release tileset base 01_127
+  - first:
+      213: -3304452159158458155
+    second: Itch release tileset base 01_128
+  - first:
+      213: -552694722620610315
+    second: Itch release tileset base 01_129
+  - first:
+      213: -5762842806710677787
+    second: Itch release tileset base 01_130
+  - first:
+      213: 2617675976736341785
+    second: Itch release tileset base 01_131
+  - first:
+      213: 616972040947846703
+    second: Itch release tileset base 01_132
+  - first:
+      213: -3377343437784920107
+    second: Itch release tileset base 01_133
+  - first:
+      213: 4326781248195306247
+    second: Itch release tileset base 01_134
+  - first:
+      213: -8060420100185434664
+    second: Itch release tileset base 01_135
+  - first:
+      213: 7761016960037543146
+    second: Itch release tileset base 01_136
+  - first:
+      213: -7468683179687821851
+    second: Itch release tileset base 01_137
+  - first:
+      213: -4853051217023765759
+    second: Itch release tileset base 01_138
+  - first:
+      213: -1508332155079033686
+    second: Itch release tileset base 01_139
+  - first:
+      213: 2835370180215367768
+    second: Itch release tileset base 01_140
+  - first:
+      213: 6677992984400383337
+    second: Itch release tileset base 01_141
+  - first:
+      213: -35912708074592057
+    second: Itch release tileset base 01_142
+  - first:
+      213: -7131831743362149954
+    second: Itch release tileset base 01_143
+  - first:
+      213: 6392003567918739209
+    second: Itch release tileset base 01_144
+  - first:
+      213: 3203193748171593123
+    second: Itch release tileset base 01_145
+  - first:
+      213: -1731608482187240160
+    second: Itch release tileset base 01_146
+  - first:
+      213: 5253609357390093704
+    second: Itch release tileset base 01_147
+  - first:
+      213: -2225648970525457030
+    second: Itch release tileset base 01_148
+  - first:
+      213: -3074162453735028840
+    second: Itch release tileset base 01_149
+  - first:
+      213: 5050732591478232302
+    second: Itch release tileset base 01_150
+  - first:
+      213: -3749000941279175953
+    second: Itch release tileset base 01_151
+  - first:
+      213: -7317289334007489657
+    second: Itch release tileset base 01_152
+  - first:
+      213: -7516132092852522076
+    second: Itch release tileset base 01_153
+  - first:
+      213: 6979827265105241960
+    second: Itch release tileset base 01_154
+  - first:
+      213: -6576267712445395073
+    second: Itch release tileset base 01_155
+  - first:
+      213: -4721031859429096033
+    second: Itch release tileset base 01_156
+  - first:
+      213: -7176166981054147453
+    second: Itch release tileset base 01_157
+  - first:
+      213: 447103357079262843
+    second: Itch release tileset base 01_158
+  - first:
+      213: -179454743352331580
+    second: Itch release tileset base 01_159
+  - first:
+      213: 1117926505751198078
+    second: Itch release tileset base 01_160
+  - first:
+      213: -1032895405863411682
+    second: Itch release tileset base 01_161
+  - first:
+      213: -8916935546486127705
+    second: Itch release tileset base 01_162
+  - first:
+      213: 6605200413724105042
+    second: Itch release tileset base 01_163
+  - first:
+      213: -4065115137039016359
+    second: Itch release tileset base 01_164
+  - first:
+      213: 7765232025603689384
+    second: Itch release tileset base 01_165
+  - first:
+      213: 260918253452069649
+    second: Itch release tileset base 01_166
+  - first:
+      213: -7009122848973653833
+    second: Itch release tileset base 01_167
+  - first:
+      213: -825868441630473899
+    second: Itch release tileset base 01_168
+  - first:
+      213: -1157720792815459423
+    second: Itch release tileset base 01_169
+  - first:
+      213: -6648321220792329690
+    second: Itch release tileset base 01_170
+  - first:
+      213: 7568958482345593227
+    second: Itch release tileset base 01_171
+  - first:
+      213: 7982800681077607809
+    second: Itch release tileset base 01_172
+  - first:
+      213: 5045688016155117133
+    second: Itch release tileset base 01_173
+  - first:
+      213: -9034377811725054398
+    second: Itch release tileset base 01_174
+  - first:
+      213: -5204648718331462441
+    second: Itch release tileset base 01_175
+  - first:
+      213: -1421517926096614062
+    second: Itch release tileset base 01_176
+  - first:
+      213: -5962478241425940108
+    second: Itch release tileset base 01_177
+  - first:
+      213: -3874428470206758147
+    second: Itch release tileset base 01_178
+  - first:
+      213: 8835939624092794091
+    second: Itch release tileset base 01_179
+  - first:
+      213: 397851818485625120
+    second: Itch release tileset base 01_180
+  - first:
+      213: 5196042356135232699
+    second: Itch release tileset base 01_181
+  - first:
+      213: 291953924711674264
+    second: Itch release tileset base 01_182
+  - first:
+      213: -6153115227771027043
+    second: Itch release tileset base 01_183
+  - first:
+      213: -269524237617427217
+    second: Itch release tileset base 01_184
+  - first:
+      213: -5936209236764636386
+    second: Itch release tileset base 01_185
+  - first:
+      213: -3463073579754246897
+    second: Itch release tileset base 01_186
+  - first:
+      213: -7544970835357170833
+    second: Itch release tileset base 01_187
+  - first:
+      213: -5529694954288103572
+    second: Itch release tileset base 01_188
+  - first:
+      213: -2763919428699088062
+    second: Itch release tileset base 01_189
+  - first:
+      213: -264179389078514125
+    second: Itch release tileset base 01_190
+  - first:
+      213: -6687301135290579704
+    second: Itch release tileset base 01_191
+  - first:
+      213: 8578065573544593431
+    second: Itch release tileset base 01_192
+  - first:
+      213: -8343201714266140554
+    second: Itch release tileset base 01_193
+  - first:
+      213: 6438485199894415567
+    second: Itch release tileset base 01_194
+  - first:
+      213: -8429051575966941529
+    second: Itch release tileset base 01_195
+  - first:
+      213: 1647242932879160350
+    second: Itch release tileset base 01_196
+  - first:
+      213: -7345570185307646495
+    second: Itch release tileset base 01_197
+  - first:
+      213: -5534506130989900247
+    second: Itch release tileset base 01_198
+  - first:
+      213: -7631349861292131659
+    second: Itch release tileset base 01_199
+  - first:
+      213: -4977049817411339781
+    second: Itch release tileset base 01_200
+  - first:
+      213: -2637832344122478919
+    second: Itch release tileset base 01_201
+  - first:
+      213: -1693302043008773531
+    second: Itch release tileset base 01_202
+  - first:
+      213: -161535311589680377
+    second: Itch release tileset base 01_203
+  - first:
+      213: -291959089899913450
+    second: Itch release tileset base 01_204
+  - first:
+      213: -712490071827147408
+    second: Itch release tileset base 01_205
+  - first:
+      213: 6082011575390650522
+    second: Itch release tileset base 01_206
+  - first:
+      213: -8901934747299314684
+    second: Itch release tileset base 01_207
+  - first:
+      213: -3561222786638110810
+    second: Itch release tileset base 01_208
+  - first:
+      213: -8471363163547186698
+    second: Itch release tileset base 01_209
+  - first:
+      213: 4145002056671815776
+    second: Itch release tileset base 01_210
+  - first:
+      213: -7230676149375221796
+    second: Itch release tileset base 01_211
+  - first:
+      213: -4818836905785772063
+    second: Itch release tileset base 01_212
+  - first:
+      213: -4999058780088093911
+    second: Itch release tileset base 01_213
+  - first:
+      213: -8491226565281489069
+    second: Itch release tileset base 01_214
+  - first:
+      213: 1472350982609056091
+    second: Itch release tileset base 01_215
+  - first:
+      213: 6189326314459114370
+    second: Itch release tileset base 01_216
+  - first:
+      213: -7127981446748556420
+    second: Itch release tileset base 01_217
+  - first:
+      213: -7823785225811774717
+    second: Itch release tileset base 01_218
+  - first:
+      213: 246011365905254866
+    second: Itch release tileset base 01_219
+  - first:
+      213: 4626529459347015260
+    second: Itch release tileset base 01_220
+  - first:
+      213: 6151279781556488460
+    second: Itch release tileset base 01_221
+  - first:
+      213: 6328223669435797829
+    second: Itch release tileset base 01_222
+  - first:
+      213: -5536651512685060211
+    second: Itch release tileset base 01_223
+  - first:
+      213: 8454498758635893706
+    second: Itch release tileset base 01_224
+  - first:
+      213: -8843749819237104878
+    second: Itch release tileset base 01_225
+  - first:
+      213: 2978969056893859547
+    second: Itch release tileset base 01_226
+  - first:
+      213: 5388947275424035677
+    second: Itch release tileset base 01_227
+  - first:
+      213: -1101304393365514611
+    second: Itch release tileset base 01_228
+  - first:
+      213: -3383218100954682514
+    second: Itch release tileset base 01_229
+  - first:
+      213: 5021922867096320857
+    second: Itch release tileset base 01_230
+  - first:
+      213: 536600389594483948
+    second: Itch release tileset base 01_231
+  - first:
+      213: 8879829819067597584
+    second: Itch release tileset base 01_232
+  - first:
+      213: 73132376718286779
+    second: Itch release tileset base 01_233
+  - first:
+      213: 4124759251607861166
+    second: Itch release tileset base 01_234
+  - first:
+      213: 6957203338692152289
+    second: Itch release tileset base 01_235
+  - first:
+      213: 60448577439006064
+    second: Itch release tileset base 01_236
+  - first:
+      213: 2676878386305174137
+    second: Itch release tileset base 01_237
+  - first:
+      213: 8437576205905164780
+    second: Itch release tileset base 01_238
+  - first:
+      213: 8971388821766027503
+    second: Itch release tileset base 01_239
+  - first:
+      213: -3342468624415112796
+    second: Itch release tileset base 01_240
+  - first:
+      213: 1448924029862203065
+    second: Itch release tileset base 01_241
+  - first:
+      213: 458698973751542995
+    second: Itch release tileset base 01_242
+  - first:
+      213: -4786705602522240015
+    second: Itch release tileset base 01_243
+  - first:
+      213: -736477656936206215
+    second: Itch release tileset base 01_244
+  - first:
+      213: 2478961520703306059
+    second: Itch release tileset base 01_245
+  - first:
+      213: -7522223442947410039
+    second: Itch release tileset base 01_246
+  - first:
+      213: 7051577516324760047
+    second: Itch release tileset base 01_247
+  - first:
+      213: 5164422779360382651
+    second: Itch release tileset base 01_248
+  - first:
+      213: -343386472108555275
+    second: Itch release tileset base 01_249
+  - first:
+      213: 8241315367121632640
+    second: Itch release tileset base 01_250
+  - first:
+      213: -1004607987661440674
+    second: Itch release tileset base 01_251
+  - first:
+      213: -1284446231768341943
+    second: Itch release tileset base 01_252
+  - first:
+      213: 2646503432875142833
+    second: Itch release tileset base 01_253
+  - first:
+      213: 8367484757135145386
+    second: Itch release tileset base 01_254
+  - first:
+      213: -6309870721653192167
+    second: Itch release tileset base 01_255
+  - first:
+      213: 2026864159363188819
+    second: Itch release tileset base 01_256
+  - first:
+      213: -7188302013833959419
+    second: Itch release tileset base 01_257
+  - first:
+      213: -5767550771860846618
+    second: Itch release tileset base 01_258
+  - first:
+      213: 7940151945581677675
+    second: Itch release tileset base 01_259
+  - first:
+      213: -7371425954898839585
+    second: Itch release tileset base 01_260
+  - first:
+      213: -4853402384973929975
+    second: Itch release tileset base 01_261
+  - first:
+      213: 5921669853086064680
+    second: Itch release tileset base 01_262
+  - first:
+      213: 1377509238178938722
+    second: Itch release tileset base 01_263
+  - first:
+      213: 8822390499226665181
+    second: Itch release tileset base 01_264
+  - first:
+      213: -570691825565079902
+    second: Itch release tileset base 01_265
+  - first:
+      213: 1333472335626402621
+    second: Itch release tileset base 01_266
+  - first:
+      213: 2203566779018565770
+    second: Itch release tileset base 01_267
+  - first:
+      213: 1292807067799036261
+    second: Itch release tileset base 01_268
+  - first:
+      213: 5393092508469548010
+    second: Itch release tileset base 01_269
+  - first:
+      213: -2395836989625259765
+    second: Itch release tileset base 01_270
+  - first:
+      213: 1798805988506447039
+    second: Itch release tileset base 01_271
+  - first:
+      213: -6940903263574756795
+    second: Itch release tileset base 01_272
+  - first:
+      213: 3063754501447639477
+    second: Itch release tileset base 01_273
+  - first:
+      213: 6384425513437122631
+    second: Itch release tileset base 01_274
+  - first:
+      213: 6590270289189187714
+    second: Itch release tileset base 01_275
+  - first:
+      213: -3951321555149905236
+    second: Itch release tileset base 01_276
+  - first:
+      213: -522043196306535561
+    second: Itch release tileset base 01_277
+  - first:
+      213: -624025665012118048
+    second: Itch release tileset base 01_278
+  - first:
+      213: 8216431626280740432
+    second: Itch release tileset base 01_279
+  - first:
+      213: -6153143072018461490
+    second: Itch release tileset base 01_280
+  - first:
+      213: 6006761844086735496
+    second: Itch release tileset base 01_281
+  - first:
+      213: 6802549974382669976
+    second: Itch release tileset base 01_282
+  - first:
+      213: 4026236342000886532
+    second: Itch release tileset base 01_283
+  - first:
+      213: 6147369879595133623
+    second: Itch release tileset base 01_284
+  - first:
+      213: 5732617601822410911
+    second: Itch release tileset base 01_285
+  - first:
+      213: 2578571352932701859
+    second: Itch release tileset base 01_286
+  - first:
+      213: 6987516518503274248
+    second: Itch release tileset base 01_287
+  - first:
+      213: 4714430908329306299
+    second: Itch release tileset base 01_288
+  - first:
+      213: -4783935492944380066
+    second: Itch release tileset base 01_289
+  - first:
+      213: -8273274477811112225
+    second: Itch release tileset base 01_290
+  - first:
+      213: 7405783128130812619
+    second: Itch release tileset base 01_291
+  - first:
+      213: 4787210234310733750
+    second: Itch release tileset base 01_292
+  - first:
+      213: 5666542843665556288
+    second: Itch release tileset base 01_293
+  - first:
+      213: -9010756239136826132
+    second: Itch release tileset base 01_294
+  - first:
+      213: 7080620822856893281
+    second: Itch release tileset base 01_295
+  - first:
+      213: 1135032260223001145
+    second: Itch release tileset base 01_296
+  - first:
+      213: 1340681160885244274
+    second: Itch release tileset base 01_297
+  - first:
+      213: -2657476992705702971
+    second: Itch release tileset base 01_298
+  - first:
+      213: -8487591069230190555
+    second: Itch release tileset base 01_299
+  - first:
+      213: -2267319725159744244
+    second: Itch release tileset base 01_300
+  - first:
+      213: -7712016434199384954
+    second: Itch release tileset base 01_301
+  - first:
+      213: -4723123606026989534
+    second: Itch release tileset base 01_302
+  - first:
+      213: -3160965475396890382
+    second: Itch release tileset base 01_303
+  - first:
+      213: 1646224683321196783
+    second: Itch release tileset base 01_304
+  - first:
+      213: -6363663050393907832
+    second: Itch release tileset base 01_305
+  - first:
+      213: 6854437916859877052
+    second: Itch release tileset base 01_306
+  - first:
+      213: 2076883343359483400
+    second: Itch release tileset base 01_307
+  - first:
+      213: 5687966186330103078
+    second: Itch release tileset base 01_308
+  - first:
+      213: 8874115051154701000
+    second: Itch release tileset base 01_309
+  - first:
+      213: -1157682752296825001
+    second: Itch release tileset base 01_310
+  - first:
+      213: -1416565310439422781
+    second: Itch release tileset base 01_311
+  - first:
+      213: -2517533698061852358
+    second: Itch release tileset base 01_312
+  - first:
+      213: -3413409184434214562
+    second: Itch release tileset base 01_313
+  - first:
+      213: 5687149119662703187
+    second: Itch release tileset base 01_314
+  - first:
+      213: 366325186302395139
+    second: Itch release tileset base 01_315
+  - first:
+      213: -1048196941128905644
+    second: Itch release tileset base 01_316
+  - first:
+      213: -2573021169234955361
+    second: Itch release tileset base 01_317
+  - first:
+      213: 1971076979230025204
+    second: Itch release tileset base 01_318
+  - first:
+      213: 5903054423442187726
+    second: Itch release tileset base 01_319
+  - first:
+      213: -5586255404459129908
+    second: Itch release tileset base 01_320
+  - first:
+      213: -4625276608762705198
+    second: Itch release tileset base 01_321
+  - first:
+      213: 2207569347694403556
+    second: Itch release tileset base 01_322
+  - first:
+      213: 1660374953053069221
+    second: Itch release tileset base 01_323
+  - first:
+      213: 2674564558915090328
+    second: Itch release tileset base 01_324
+  - first:
+      213: -1705725316719602723
+    second: Itch release tileset base 01_325
+  - first:
+      213: -6741971267570850558
+    second: Itch release tileset base 01_326
+  - first:
+      213: 2627646452043456869
+    second: Itch release tileset base 01_327
+  - first:
+      213: 2224707358744624097
+    second: Itch release tileset base 01_328
+  - first:
+      213: -8922862127824501435
+    second: Itch release tileset base 01_329
+  - first:
+      213: 5577773679861025790
+    second: Itch release tileset base 01_330
+  - first:
+      213: -4547626889912420925
+    second: Itch release tileset base 01_331
+  - first:
+      213: -5400540657773986637
+    second: Itch release tileset base 01_332
+  - first:
+      213: -4998757094738692416
+    second: Itch release tileset base 01_333
+  - first:
+      213: -7048836065368116548
+    second: Itch release tileset base 01_334
+  - first:
+      213: 2858544051553645610
+    second: Itch release tileset base 01_335
+  - first:
+      213: -6994345714395336739
+    second: Itch release tileset base 01_336
+  - first:
+      213: -2631602981708374686
+    second: Itch release tileset base 01_337
+  - first:
+      213: -9211480043586798971
+    second: Itch release tileset base 01_338
+  - first:
+      213: 5929311378451830276
+    second: Itch release tileset base 01_339
+  - first:
+      213: 3004371295844910653
+    second: Itch release tileset base 01_340
+  - first:
+      213: -8399247537664539556
+    second: Itch release tileset base 01_341
+  - first:
+      213: -8276721554283963520
+    second: Itch release tileset base 01_342
+  - first:
+      213: -5546799264130896522
+    second: Itch release tileset base 01_343
+  - first:
+      213: -3972525053248217726
+    second: Itch release tileset base 01_344
+  - first:
+      213: -2012371365845678848
+    second: Itch release tileset base 01_345
+  - first:
+      213: -7663470213923326946
+    second: Itch release tileset base 01_346
+  - first:
+      213: 4542575208218963735
+    second: Itch release tileset base 01_347
+  - first:
+      213: 2630672246108520978
+    second: Itch release tileset base 01_348
+  - first:
+      213: -4508412499743329737
+    second: Itch release tileset base 01_349
+  - first:
+      213: 3355210823465967457
+    second: Itch release tileset base 01_350
+  - first:
+      213: -7569388316254669839
+    second: Itch release tileset base 01_351
+  - first:
+      213: -8673144786839332633
+    second: Itch release tileset base 01_352
+  - first:
+      213: 1165258645951895961
+    second: Itch release tileset base 01_353
+  - first:
+      213: -358550749100607188
+    second: Itch release tileset base 01_354
+  - first:
+      213: -2886833887877826917
+    second: Itch release tileset base 01_355
+  - first:
+      213: 1068405649237078690
+    second: Itch release tileset base 01_356
+  - first:
+      213: -8601710738854624495
+    second: Itch release tileset base 01_357
+  - first:
+      213: -6922349785014086447
+    second: Itch release tileset base 01_358
+  - first:
+      213: -2190538620637227373
+    second: Itch release tileset base 01_359
+  - first:
+      213: -5659044081009504455
+    second: Itch release tileset base 01_360
+  - first:
+      213: -1710384481319088742
+    second: Itch release tileset base 01_361
+  - first:
+      213: 7372018250695076784
+    second: Itch release tileset base 01_362
+  - first:
+      213: -4356692449192096835
+    second: Itch release tileset base 01_363
+  - first:
+      213: 7788518815711515438
+    second: Itch release tileset base 01_364
+  - first:
+      213: 290764755409918529
+    second: Itch release tileset base 01_365
+  - first:
+      213: 2305380183079266865
+    second: Itch release tileset base 01_366
+  - first:
+      213: 7281274140641468630
+    second: Itch release tileset base 01_367
+  - first:
+      213: 8554242011720803643
+    second: Itch release tileset base 01_368
+  - first:
+      213: 7595731862451175937
+    second: Itch release tileset base 01_369
+  - first:
+      213: 4233936151399499419
+    second: Itch release tileset base 01_370
+  - first:
+      213: -4460862758133734154
+    second: Itch release tileset base 01_371
+  - first:
+      213: 6948205953230299757
+    second: Itch release tileset base 01_372
+  - first:
+      213: 3777275301726109282
+    second: Itch release tileset base 01_373
+  - first:
+      213: 1088237980367996342
+    second: Itch release tileset base 01_374
+  - first:
+      213: 3756341713094306011
+    second: Itch release tileset base 01_375
+  - first:
+      213: 2651829252525817927
+    second: Itch release tileset base 01_376
+  - first:
+      213: -7020938974306050104
+    second: Itch release tileset base 01_377
+  - first:
+      213: -6880913404568932041
+    second: Itch release tileset base 01_378
+  - first:
+      213: 8394291711356335260
+    second: Itch release tileset base 01_379
+  - first:
+      213: 218238419342948331
+    second: Itch release tileset base 01_380
+  - first:
+      213: -5901523330610323582
+    second: Itch release tileset base 01_381
+  - first:
+      213: -2814489990697181056
+    second: Itch release tileset base 01_382
+  - first:
+      213: 5758974671266012890
+    second: Itch release tileset base 01_383
+  - first:
+      213: -3526703613105345097
+    second: Itch release tileset base 01_384
+  - first:
+      213: 7645889437928026343
+    second: Itch release tileset base 01_385
+  - first:
+      213: -3229508840199382477
+    second: Itch release tileset base 01_386
+  - first:
+      213: 2503337521492421176
+    second: Itch release tileset base 01_387
+  - first:
+      213: 5537063865937703670
+    second: Itch release tileset base 01_388
+  - first:
+      213: -6369887596599246964
+    second: Itch release tileset base 01_389
+  - first:
+      213: -917081060683911550
+    second: Itch release tileset base 01_390
+  - first:
+      213: 7871735879344378554
+    second: Itch release tileset base 01_391
+  - first:
+      213: 5677265525653481199
+    second: Itch release tileset base 01_392
+  - first:
+      213: -4015299276607343573
+    second: Itch release tileset base 01_393
+  - first:
+      213: -1552297765412702749
+    second: Itch release tileset base 01_394
+  - first:
+      213: 2614611659524988681
+    second: Itch release tileset base 01_395
+  - first:
+      213: 543699631872166597
+    second: Itch release tileset base 01_396
+  - first:
+      213: 3442141463888424307
+    second: Itch release tileset base 01_397
+  - first:
+      213: 8425908506065101792
+    second: Itch release tileset base 01_398
+  - first:
+      213: 2387894544381230944
+    second: Itch release tileset base 01_399
+  - first:
+      213: -2777801888592574495
+    second: Itch release tileset base 01_400
+  - first:
+      213: 3296362457832706898
+    second: Itch release tileset base 01_401
+  - first:
+      213: 6424920576633638288
+    second: Itch release tileset base 01_402
+  - first:
+      213: 1643248280226001862
+    second: Itch release tileset base 01_403
+  - first:
+      213: -810636800896368897
+    second: Itch release tileset base 01_404
+  - first:
+      213: 9015872929558982994
+    second: Itch release tileset base 01_405
+  - first:
+      213: 6025934494855921631
+    second: Itch release tileset base 01_406
+  - first:
+      213: 5998222963941707785
+    second: Itch release tileset base 01_407
+  - first:
+      213: 6174546502897326309
+    second: Itch release tileset base 01_408
+  - first:
+      213: -3637960427709310257
+    second: Itch release tileset base 01_409
+  - first:
+      213: 2948096714013282220
+    second: Itch release tileset base 01_410
+  - first:
+      213: -4893583415317162044
+    second: Itch release tileset base 01_411
+  - first:
+      213: -877972053306067054
+    second: Itch release tileset base 01_412
+  - first:
+      213: 7489715232567835803
+    second: Itch release tileset base 01_413
+  - first:
+      213: 8674546937826457532
+    second: Itch release tileset base 01_414
+  - first:
+      213: 4363555117188531446
+    second: Itch release tileset base 01_415
+  - first:
+      213: 468926292313933767
+    second: Itch release tileset base 01_416
+  - first:
+      213: -5569081692923056723
+    second: Itch release tileset base 01_417
+  - first:
+      213: 4706004294063218645
+    second: Itch release tileset base 01_418
+  - first:
+      213: 4590598157874039676
+    second: Itch release tileset base 01_419
+  - first:
+      213: -4211928641666979242
+    second: Itch release tileset base 01_420
+  - first:
+      213: 4909827894102744779
+    second: Itch release tileset base 01_421
+  - first:
+      213: -1195828952519906818
+    second: Itch release tileset base 01_422
+  - first:
+      213: 472623109037713399
+    second: Itch release tileset base 01_423
+  - first:
+      213: 9104898885122583004
+    second: Itch release tileset base 01_424
+  - first:
+      213: 815113661591389365
+    second: Itch release tileset base 01_425
+  - first:
+      213: -5262294155863213416
+    second: Itch release tileset base 01_426
+  - first:
+      213: -5699732267643448865
+    second: Itch release tileset base 01_427
+  - first:
+      213: 632341162000909121
+    second: Itch release tileset base 01_428
+  - first:
+      213: -9136500050033239511
+    second: Itch release tileset base 01_429
+  - first:
+      213: 2282297717072810260
+    second: Itch release tileset base 01_430
+  - first:
+      213: 8915532089509081889
+    second: Itch release tileset base 01_431
+  - first:
+      213: 4261364668557814289
+    second: Itch release tileset base 01_432
+  - first:
+      213: -7145186979635464143
+    second: Itch release tileset base 01_433
+  - first:
+      213: -7689399143998111111
+    second: Itch release tileset base 01_434
+  - first:
+      213: -476672108599747756
+    second: Itch release tileset base 01_435
+  - first:
+      213: 5650159128119323780
+    second: Itch release tileset base 01_436
+  - first:
+      213: 6905120841653636932
+    second: Itch release tileset base 01_437
+  - first:
+      213: 3168228783367549467
+    second: Itch release tileset base 01_438
+  - first:
+      213: -2880596606838322277
+    second: Itch release tileset base 01_439
+  - first:
+      213: 679287183797034148
+    second: Itch release tileset base 01_440
+  - first:
+      213: 4860089018384109560
+    second: Itch release tileset base 01_441
+  - first:
+      213: 6445694065859877118
+    second: Itch release tileset base 01_442
+  - first:
+      213: -4494239042508099719
+    second: Itch release tileset base 01_443
+  - first:
+      213: 4450908034470142280
+    second: Itch release tileset base 01_444
+  - first:
+      213: 3071748445150453519
+    second: Itch release tileset base 01_445
+  - first:
+      213: 6943373750819877907
+    second: Itch release tileset base 01_446
+  - first:
+      213: 5714963217668924465
+    second: Itch release tileset base 01_447
+  - first:
+      213: -5497625654332061005
+    second: Itch release tileset base 01_448
+  - first:
+      213: -6774770315929021155
+    second: Itch release tileset base 01_449
+  - first:
+      213: 2702782824134769460
+    second: Itch release tileset base 01_450
+  - first:
+      213: 2343150738832103641
+    second: Itch release tileset base 01_451
+  - first:
+      213: -5123606830656125046
+    second: Itch release tileset base 01_452
+  - first:
+      213: 8523344478431577484
+    second: Itch release tileset base 01_453
+  - first:
+      213: -1351032117426201090
+    second: Itch release tileset base 01_454
+  - first:
+      213: 2594111114690087761
+    second: Itch release tileset base 01_455
+  - first:
+      213: -7714120902604236584
+    second: Itch release tileset base 01_456
+  - first:
+      213: 6016573244127830319
+    second: Itch release tileset base 01_457
+  - first:
+      213: -4022802190859250866
+    second: Itch release tileset base 01_458
+  - first:
+      213: -2254666822428007809
+    second: Itch release tileset base 01_459
+  - first:
+      213: 374945823904411969
+    second: Itch release tileset base 01_460
+  - first:
+      213: 8776446548125959344
+    second: Itch release tileset base 01_461
+  - first:
+      213: 771006825931055829
+    second: Itch release tileset base 01_462
+  - first:
+      213: 6404706286738669121
+    second: Itch release tileset base 01_463
+  - first:
+      213: -8194598438028244388
+    second: Itch release tileset base 01_464
+  - first:
+      213: -1989959534662870088
+    second: Itch release tileset base 01_465
+  - first:
+      213: -3021968372717345990
+    second: Itch release tileset base 01_466
+  - first:
+      213: 7636589789390210249
+    second: Itch release tileset base 01_467
+  - first:
+      213: -8423069089967449495
+    second: Itch release tileset base 01_468
+  - first:
+      213: -9198594756026275175
+    second: Itch release tileset base 01_469
+  - first:
+      213: 5984564162126924680
+    second: Itch release tileset base 01_470
+  - first:
+      213: -5316473160297709110
+    second: Itch release tileset base 01_471
+  - first:
+      213: 6531149137374751628
+    second: Itch release tileset base 01_472
+  - first:
+      213: 90164706712517417
+    second: Itch release tileset base 01_473
+  - first:
+      213: -7443592439086431813
+    second: Itch release tileset base 01_474
+  - first:
+      213: 3546362950622894058
+    second: Itch release tileset base 01_475
+  - first:
+      213: 4130835554683601927
+    second: Itch release tileset base 01_476
+  - first:
+      213: -2515217403704532661
+    second: Itch release tileset base 01_477
+  - first:
+      213: -3939818715193069444
+    second: Itch release tileset base 01_478
+  - first:
+      213: 5384109222391428880
+    second: Itch release tileset base 01_479
+  - first:
+      213: 4941044564983283039
+    second: Itch release tileset base 01_480
+  - first:
+      213: -6634469724624886151
+    second: Itch release tileset base 01_481
+  - first:
+      213: 9208106271081190763
+    second: Itch release tileset base 01_482
+  - first:
+      213: -4171331693421867243
+    second: Itch release tileset base 01_483
+  - first:
+      213: -4155976036802631031
+    second: Itch release tileset base 01_484
+  - first:
+      213: -2575687304305206516
+    second: Itch release tileset base 01_485
+  - first:
+      213: 4554852448511425217
+    second: Itch release tileset base 01_486
+  - first:
+      213: -3733505402942025732
+    second: Itch release tileset base 01_487
+  - first:
+      213: 6334282373351463332
+    second: Itch release tileset base 01_488
+  - first:
+      213: 7320906840616378126
+    second: Itch release tileset base 01_489
+  - first:
+      213: 8508815963886565941
+    second: Itch release tileset base 01_490
+  - first:
+      213: 1371158393507780745
+    second: Itch release tileset base 01_491
+  - first:
+      213: 6736103334485406548
+    second: Itch release tileset base 01_492
+  - first:
+      213: -1540607399950668714
+    second: Itch release tileset base 01_493
+  - first:
+      213: -6380480522527786345
+    second: Itch release tileset base 01_494
+  - first:
+      213: 2721903804810590598
+    second: Itch release tileset base 01_495
+  - first:
+      213: -3478806350075716244
+    second: Itch release tileset base 01_496
+  - first:
+      213: -3525057537235018672
+    second: Itch release tileset base 01_497
+  - first:
+      213: 8399012567101530843
+    second: Itch release tileset base 01_498
+  - first:
+      213: -1168515942429673141
+    second: Itch release tileset base 01_499
+  - first:
+      213: -7564804551748433289
+    second: Itch release tileset base 01_500
+  - first:
+      213: 1455380390721667210
+    second: Itch release tileset base 01_501
+  - first:
+      213: -8324002066331505380
+    second: Itch release tileset base 01_502
+  - first:
+      213: 4143041765776275090
+    second: Itch release tileset base 01_503
+  - first:
+      213: -1964633828857142298
+    second: Itch release tileset base 01_504
+  - first:
+      213: -2395314493999475841
+    second: Itch release tileset base 01_505
+  - first:
+      213: -5737824266375712675
+    second: Itch release tileset base 01_506
+  - first:
+      213: 7103700927043304784
+    second: Itch release tileset base 01_507
+  - first:
+      213: 454003021993495617
+    second: Itch release tileset base 01_508
+  - first:
+      213: -134445926381728044
+    second: Itch release tileset base 01_509
+  - first:
+      213: 1016786904865125616
+    second: Itch release tileset base 01_510
+  - first:
+      213: -8088445427920672069
+    second: Itch release tileset base 01_511
+  - first:
+      213: -5776264473089709436
+    second: Itch release tileset base 01_512
+  - first:
+      213: -4330117415811026001
+    second: Itch release tileset base 01_513
+  - first:
+      213: 5724301985805335754
+    second: Itch release tileset base 01_514
+  - first:
+      213: -4824277746932719776
+    second: Itch release tileset base 01_515
+  - first:
+      213: 2270690826497742292
+    second: Itch release tileset base 01_516
+  - first:
+      213: -4227788730328615950
+    second: Itch release tileset base 01_517
+  - first:
+      213: 6928169706838843596
+    second: Itch release tileset base 01_518
+  - first:
+      213: 8929390023234796734
+    second: Itch release tileset base 01_519
+  - first:
+      213: -4490905507468224301
+    second: Itch release tileset base 01_520
+  - first:
+      213: -7514344530792272788
+    second: Itch release tileset base 01_521
+  - first:
+      213: 5099739068340891532
+    second: Itch release tileset base 01_522
+  - first:
+      213: 7785388935571871752
+    second: Itch release tileset base 01_523
+  - first:
+      213: 2763108501098670415
+    second: Itch release tileset base 01_524
+  - first:
+      213: -8548652780505958007
+    second: Itch release tileset base 01_525
+  - first:
+      213: 6490660340118581623
+    second: Itch release tileset base 01_526
+  - first:
+      213: 4825690204475462965
+    second: Itch release tileset base 01_527
+  - first:
+      213: 2517997700919629327
+    second: Itch release tileset base 01_528
+  - first:
+      213: -1764519034497466629
+    second: Itch release tileset base 01_529
+  - first:
+      213: -947630423070362426
+    second: Itch release tileset base 01_530
+  - first:
+      213: -5634251237041823606
+    second: Itch release tileset base 01_531
+  - first:
+      213: 1024503421933532287
+    second: Itch release tileset base 01_532
+  - first:
+      213: -6810531877249503537
+    second: Itch release tileset base 01_533
+  - first:
+      213: 3088953784680452254
+    second: Itch release tileset base 01_534
+  - first:
+      213: -6368275666530486643
+    second: Itch release tileset base 01_535
+  - first:
+      213: -176770631231763558
+    second: Itch release tileset base 01_536
+  - first:
+      213: 2601764471759716389
+    second: Itch release tileset base 01_537
+  - first:
+      213: 220443127947358601
+    second: Itch release tileset base 01_538
+  - first:
+      213: -1564728162219547315
+    second: Itch release tileset base 01_539
+  - first:
+      213: 1904533347398834524
+    second: Itch release tileset base 01_540
+  - first:
+      213: 5163989985501884329
+    second: Itch release tileset base 01_541
+  - first:
+      213: -4514587013707998263
+    second: Itch release tileset base 01_542
+  - first:
+      213: 2473508191618478244
+    second: Itch release tileset base 01_543
+  - first:
+      213: 915176286086803177
+    second: Itch release tileset base 01_544
+  - first:
+      213: 1426201107539164290
+    second: Itch release tileset base 01_545
+  - first:
+      213: 5663111307556223851
+    second: Itch release tileset base 01_546
+  - first:
+      213: -8353968346705884979
+    second: Itch release tileset base 01_547
+  - first:
+      213: 6008337695297654050
+    second: Itch release tileset base 01_548
+  - first:
+      213: 1872492476563556830
+    second: Itch release tileset base 01_549
+  - first:
+      213: 4927737758508665043
+    second: Itch release tileset base 01_550
+  - first:
+      213: 332811025163502878
+    second: Itch release tileset base 01_551
+  - first:
+      213: -63283227301288911
+    second: Itch release tileset base 01_552
+  - first:
+      213: 5059662756643323133
+    second: Itch release tileset base 01_553
+  - first:
+      213: -2004170013852612752
+    second: Itch release tileset base 01_554
+  - first:
+      213: 222592122588378951
+    second: Itch release tileset base 01_555
+  - first:
+      213: -5996274945045073393
+    second: Itch release tileset base 01_556
+  - first:
+      213: 5724491948487171339
+    second: Itch release tileset base 01_557
+  - first:
+      213: 2618112113674383325
+    second: Itch release tileset base 01_558
+  - first:
+      213: 2220558087819453664
+    second: Itch release tileset base 01_559
+  - first:
+      213: 6952288476813703462
+    second: Itch release tileset base 01_560
+  - first:
+      213: 408198380665781107
+    second: Itch release tileset base 01_561
+  - first:
+      213: 3950090401503630372
+    second: Itch release tileset base 01_562
+  - first:
+      213: 1003634785297036515
+    second: Itch release tileset base 01_563
+  - first:
+      213: 5924854483108028179
+    second: Itch release tileset base 01_564
+  - first:
+      213: -2837960432216621629
+    second: Itch release tileset base 01_565
+  - first:
+      213: 5965947416606316654
+    second: Itch release tileset base 01_566
+  - first:
+      213: 30297541017743540
+    second: Itch release tileset base 01_567
+  - first:
+      213: 3050117155401504832
+    second: Itch release tileset base 01_568
+  - first:
+      213: -8846559585721816953
+    second: Itch release tileset base 01_569
+  - first:
+      213: -2263076753686191445
+    second: Itch release tileset base 01_570
+  - first:
+      213: 6601228414158729075
+    second: Itch release tileset base 01_571
+  - first:
+      213: -4606978060102091458
+    second: Itch release tileset base 01_572
+  - first:
+      213: 3976728087186039288
+    second: Itch release tileset base 01_573
+  - first:
+      213: 7412797983118474577
+    second: Itch release tileset base 01_574
+  - first:
+      213: 1227749110754809859
+    second: Itch release tileset base 01_575
+  - first:
+      213: -1515955973922928513
+    second: Itch release tileset base 01_576
+  - first:
+      213: -5751622135594099685
+    second: Itch release tileset base 01_577
+  - first:
+      213: 8269383044475944130
+    second: Itch release tileset base 01_578
+  - first:
+      213: 2970841506753898580
+    second: Itch release tileset base 01_579
+  - first:
+      213: 2659481319611730552
+    second: Itch release tileset base 01_580
+  - first:
+      213: 6046588173257005608
+    second: Itch release tileset base 01_581
+  - first:
+      213: 2713468847454182767
+    second: Itch release tileset base 01_582
+  - first:
+      213: -7299127207398518699
+    second: Itch release tileset base 01_583
+  - first:
+      213: -6567585508685360989
+    second: Itch release tileset base 01_584
+  - first:
+      213: 5737267534441255363
+    second: Itch release tileset base 01_585
+  - first:
+      213: 2230264279507858446
+    second: Itch release tileset base 01_586
+  - first:
+      213: -1280974429641964392
+    second: Itch release tileset base 01_587
+  - first:
+      213: -6876363041195086702
+    second: Itch release tileset base 01_588
+  - first:
+      213: 5044292022595063352
+    second: Itch release tileset base 01_589
+  - first:
+      213: -6204388415101549893
+    second: Itch release tileset base 01_590
+  - first:
+      213: 5267252466501566991
+    second: Itch release tileset base 01_591
+  - first:
+      213: -6296478459769189749
+    second: Itch release tileset base 01_592
+  - first:
+      213: -7924396792011505299
+    second: Itch release tileset base 01_593
+  - first:
+      213: -2633764164098742694
+    second: Itch release tileset base 01_594
+  - first:
+      213: 2217412632884866509
+    second: Itch release tileset base 01_595
+  - first:
+      213: -2089439020166129599
+    second: Itch release tileset base 01_596
+  - first:
+      213: -1381300028605833751
+    second: Itch release tileset base 01_597
+  - first:
+      213: -3636058363452533961
+    second: Itch release tileset base 01_598
+  - first:
+      213: 1178096792004347491
+    second: Itch release tileset base 01_599
+  - first:
+      213: -3850745750742772341
+    second: Itch release tileset base 01_600
+  - first:
+      213: -7094047761939766118
+    second: Itch release tileset base 01_601
+  - first:
+      213: 6156904139755428046
+    second: Itch release tileset base 01_602
+  - first:
+      213: -6294481314563961499
+    second: Itch release tileset base 01_603
+  - first:
+      213: 6600270798989783979
+    second: Itch release tileset base 01_604
+  - first:
+      213: 3598522844604153057
+    second: Itch release tileset base 01_605
+  - first:
+      213: 4222953651810957497
+    second: Itch release tileset base 01_606
+  - first:
+      213: -6884680162124340677
+    second: Itch release tileset base 01_607
+  - first:
+      213: -4631621310561563198
+    second: Itch release tileset base 01_608
+  - first:
+      213: -4586121051582867782
+    second: Itch release tileset base 01_609
+  - first:
+      213: 8209821795156896170
+    second: Itch release tileset base 01_610
+  - first:
+      213: -6913385533321816702
+    second: Itch release tileset base 01_611
+  - first:
+      213: 2715931663358930126
+    second: Itch release tileset base 01_612
+  - first:
+      213: -2299024396507906707
+    second: Itch release tileset base 01_613
+  - first:
+      213: 4133303951793674594
+    second: Itch release tileset base 01_614
+  - first:
+      213: 4226481314214047906
+    second: Itch release tileset base 01_615
+  - first:
+      213: 8588504531775167087
+    second: Itch release tileset base 01_616
+  - first:
+      213: -243503651745443049
+    second: Itch release tileset base 01_617
+  - first:
+      213: -438438145722288181
+    second: Itch release tileset base 01_618
+  - first:
+      213: 7745849840021323501
+    second: Itch release tileset base 01_619
+  - first:
+      213: 6440286952309179533
+    second: Itch release tileset base 01_620
+  - first:
+      213: -826744015725268395
+    second: Itch release tileset base 01_621
+  - first:
+      213: -6185971124325573804
+    second: Itch release tileset base 01_622
+  - first:
+      213: 6271106060975577944
+    second: Itch release tileset base 01_623
+  - first:
+      213: -163041681535425509
+    second: Itch release tileset base 01_624
+  - first:
+      213: 6382210161303220111
+    second: Itch release tileset base 01_625
+  - first:
+      213: -7035933733045405645
+    second: Itch release tileset base 01_626
+  - first:
+      213: 8242835155127992826
+    second: Itch release tileset base 01_627
+  - first:
+      213: -3472099807105053495
+    second: Itch release tileset base 01_628
+  - first:
+      213: -3793738325048100031
+    second: Itch release tileset base 01_629
+  - first:
+      213: 4072277293149144835
+    second: Itch release tileset base 01_630
+  - first:
+      213: 3236314034495858458
+    second: Itch release tileset base 01_631
+  - first:
+      213: 1287208844853611032
+    second: Itch release tileset base 01_632
+  - first:
+      213: -3447502773604645607
+    second: Itch release tileset base 01_633
+  - first:
+      213: -3276497451064028290
+    second: Itch release tileset base 01_634
+  - first:
+      213: 1022221159823371330
+    second: Itch release tileset base 01_635
+  - first:
+      213: -3899715106548300832
+    second: Itch release tileset base 01_636
+  - first:
+      213: 693250086858580441
+    second: Itch release tileset base 01_637
+  - first:
+      213: 184601930936876499
+    second: Itch release tileset base 01_638
+  - first:
+      213: -5114475947769620392
+    second: Itch release tileset base 01_639
+  - first:
+      213: 9055718436498318747
+    second: Itch release tileset base 01_640
+  - first:
+      213: -3832039088884869840
+    second: Itch release tileset base 01_641
+  - first:
+      213: -1735552035502240150
+    second: Itch release tileset base 01_642
+  - first:
+      213: -7581785221223836898
+    second: Itch release tileset base 01_643
+  - first:
+      213: 2263395861289910628
+    second: Itch release tileset base 01_644
+  - first:
+      213: -4647391927673899650
+    second: Itch release tileset base 01_645
+  - first:
+      213: 3941458264200771687
+    second: Itch release tileset base 01_646
+  - first:
+      213: -1468531115267886552
+    second: Itch release tileset base 01_647
+  - first:
+      213: -2327538597012812416
+    second: Itch release tileset base 01_648
+  - first:
+      213: 1509591408851012898
+    second: Itch release tileset base 01_649
+  - first:
+      213: -55627013295289896
+    second: Itch release tileset base 01_650
+  - first:
+      213: 6885425637340550154
+    second: Itch release tileset base 01_651
+  - first:
+      213: -6389412650827078177
+    second: Itch release tileset base 01_652
+  - first:
+      213: -8629906365619141973
+    second: Itch release tileset base 01_653
+  - first:
+      213: -9203881707475483171
+    second: Itch release tileset base 01_654
+  - first:
+      213: -1607760869830150374
+    second: Itch release tileset base 01_655
+  - first:
+      213: -8094151147878874998
+    second: Itch release tileset base 01_656
+  - first:
+      213: 2862643069039357370
+    second: Itch release tileset base 01_657
+  - first:
+      213: 1477298061686417464
+    second: Itch release tileset base 01_658
+  - first:
+      213: -6947684110919469894
+    second: Itch release tileset base 01_659
+  - first:
+      213: -5360370658386862821
+    second: Itch release tileset base 01_660
+  - first:
+      213: 2214010005732110214
+    second: Itch release tileset base 01_661
+  - first:
+      213: -9015875046325897014
+    second: Itch release tileset base 01_662
+  - first:
+      213: -1616587481883192623
+    second: Itch release tileset base 01_663
+  - first:
+      213: -2083388285264075348
+    second: Itch release tileset base 01_664
+  - first:
+      213: 6471290788773334458
+    second: Itch release tileset base 01_665
+  - first:
+      213: 3120722807722339667
+    second: Itch release tileset base 01_666
+  - first:
+      213: 5998818823516764539
+    second: Itch release tileset base 01_667
+  - first:
+      213: 680262106162530565
+    second: Itch release tileset base 01_668
+  - first:
+      213: -3455354525696832299
+    second: Itch release tileset base 01_669
+  - first:
+      213: -3129127599097251873
+    second: Itch release tileset base 01_670
+  - first:
+      213: -276248596783303059
+    second: Itch release tileset base 01_671
+  - first:
+      213: -6775220735983487039
+    second: Itch release tileset base 01_672
+  - first:
+      213: 1043692239187967773
+    second: Itch release tileset base 01_673
+  - first:
+      213: 4501464197251133533
+    second: Itch release tileset base 01_674
+  - first:
+      213: -9205408992574323747
+    second: Itch release tileset base 01_675
+  - first:
+      213: 7420531178628368063
+    second: Itch release tileset base 01_676
+  - first:
+      213: 1476985114500084641
+    second: Itch release tileset base 01_677
+  - first:
+      213: 3775193272858887315
+    second: Itch release tileset base 01_678
+  - first:
+      213: -7881553709081587332
+    second: Itch release tileset base 01_679
+  - first:
+      213: -4451987038214141628
+    second: Itch release tileset base 01_680
+  - first:
+      213: 6051844039935056684
+    second: Itch release tileset base 01_681
+  - first:
+      213: -9041030617565836305
+    second: Itch release tileset base 01_682
+  - first:
+      213: 2058111774132137996
+    second: Itch release tileset base 01_683
+  - first:
+      213: 6800291625052252071
+    second: Itch release tileset base 01_684
+  - first:
+      213: -6579150650143585294
+    second: Itch release tileset base 01_685
+  - first:
+      213: 2173537768941840021
+    second: Itch release tileset base 01_686
+  - first:
+      213: 401282029303990746
+    second: Itch release tileset base 01_687
+  - first:
+      213: -574977175124221415
+    second: Itch release tileset base 01_688
+  - first:
+      213: -2397651266278910710
+    second: Itch release tileset base 01_689
+  - first:
+      213: 4032239917281924368
+    second: Itch release tileset base 01_690
+  - first:
+      213: 7151463279250434038
+    second: Itch release tileset base 01_691
+  - first:
+      213: 4980709976833928987
+    second: Itch release tileset base 01_692
+  - first:
+      213: 6596034667062855076
+    second: Itch release tileset base 01_693
+  - first:
+      213: -9032121001486940279
+    second: Itch release tileset base 01_694
+  - first:
+      213: -5534566484591694255
+    second: Itch release tileset base 01_695
+  - first:
+      213: 9198350708257996850
+    second: Itch release tileset base 01_696
+  - first:
+      213: -4842431743574151254
+    second: Itch release tileset base 01_697
+  - first:
+      213: -7171759328228293543
+    second: Itch release tileset base 01_698
+  - first:
+      213: -6133511935886706854
+    second: Itch release tileset base 01_699
+  - first:
+      213: 1967820935569054976
+    second: Itch release tileset base 01_700
+  - first:
+      213: 1714040780961035527
+    second: Itch release tileset base 01_701
+  - first:
+      213: -5420919398839800646
+    second: Itch release tileset base 01_702
+  - first:
+      213: 6783191666437327897
+    second: Itch release tileset base 01_703
+  - first:
+      213: 6078930910202709396
+    second: Itch release tileset base 01_704
+  - first:
+      213: 197323874771517057
+    second: Itch release tileset base 01_705
+  - first:
+      213: 900441487895220301
+    second: Itch release tileset base 01_706
+  - first:
+      213: 5179805229211087068
+    second: Itch release tileset base 01_707
+  - first:
+      213: -5854836842438213170
+    second: Itch release tileset base 01_708
+  - first:
+      213: -8503822871235532305
+    second: Itch release tileset base 01_709
+  - first:
+      213: -2036312909947155452
+    second: Itch release tileset base 01_710
+  - first:
+      213: 7269001851209226211
+    second: Itch release tileset base 01_711
+  - first:
+      213: 7813659378879714492
+    second: Itch release tileset base 01_712
+  - first:
+      213: 2667677829567711324
+    second: Itch release tileset base 01_713
+  - first:
+      213: -5405115658607026880
+    second: Itch release tileset base 01_714
+  - first:
+      213: 644497752025873825
+    second: Itch release tileset base 01_715
+  - first:
+      213: 6738433309352712420
+    second: Itch release tileset base 01_716
+  - first:
+      213: 4415111391988728329
+    second: Itch release tileset base 01_717
+  - first:
+      213: -5700009187321713398
+    second: Itch release tileset base 01_718
+  - first:
+      213: 9036171249816838047
+    second: Itch release tileset base 01_719
+  - first:
+      213: -2926908971174126843
+    second: Itch release tileset base 01_720
+  - first:
+      213: -5480234493517434229
+    second: Itch release tileset base 01_721
+  - first:
+      213: 7039411158919349681
+    second: Itch release tileset base 01_722
+  - first:
+      213: 3408865066381753490
+    second: Itch release tileset base 01_723
+  - first:
+      213: -3070624360821874440
+    second: Itch release tileset base 01_724
+  - first:
+      213: -8522974543489240902
+    second: Itch release tileset base 01_725
+  - first:
+      213: 7440717948208747562
+    second: Itch release tileset base 01_726
+  - first:
+      213: -6433347595006971145
+    second: Itch release tileset base 01_727
+  - first:
+      213: -7136273932405360166
+    second: Itch release tileset base 01_728
+  - first:
+      213: -6588284394605823924
+    second: Itch release tileset base 01_729
+  - first:
+      213: 5643359781622304713
+    second: Itch release tileset base 01_730
+  - first:
+      213: -5672376170346695014
+    second: Itch release tileset base 01_731
+  - first:
+      213: 6936300004217580938
+    second: Itch release tileset base 01_732
+  - first:
+      213: -1596207709836860273
+    second: Itch release tileset base 01_733
+  - first:
+      213: 2334221439008897592
+    second: Itch release tileset base 01_734
+  - first:
+      213: 2437156662009155606
+    second: Itch release tileset base 01_735
+  - first:
+      213: 727911055940372216
+    second: Itch release tileset base 01_736
+  - first:
+      213: 5147577166595158254
+    second: Itch release tileset base 01_737
+  - first:
+      213: 9038235825841282107
+    second: Itch release tileset base 01_738
+  - first:
+      213: 2432369412710154243
+    second: Itch release tileset base 01_739
+  - first:
+      213: 2442268044053317054
+    second: Itch release tileset base 01_740
+  - first:
+      213: -8119773218712853004
+    second: Itch release tileset base 01_741
+  - first:
+      213: 2788723710476499159
+    second: Itch release tileset base 01_742
+  - first:
+      213: 2359148149732401052
+    second: Itch release tileset base 01_743
+  - first:
+      213: 2130230261878821124
+    second: Itch release tileset base 01_744
+  - first:
+      213: 6178253555249513875
+    second: Itch release tileset base 01_745
+  - first:
+      213: -6554458112763337592
+    second: Itch release tileset base 01_746
+  - first:
+      213: -8376295932986769725
+    second: Itch release tileset base 01_747
+  - first:
+      213: -7670881015762361507
+    second: Itch release tileset base 01_748
+  - first:
+      213: 6737484557708212405
+    second: Itch release tileset base 01_749
+  - first:
+      213: -2079761264616377995
+    second: Itch release tileset base 01_750
+  - first:
+      213: -2319735810562610695
+    second: Itch release tileset base 01_751
+  - first:
+      213: -4320669660929515933
+    second: Itch release tileset base 01_752
+  - first:
+      213: 6026385268522053728
+    second: Itch release tileset base 01_753
+  - first:
+      213: -5689453021333098608
+    second: Itch release tileset base 01_754
+  - first:
+      213: -4451674558611516813
+    second: Itch release tileset base 01_755
+  - first:
+      213: 2817868354768695683
+    second: Itch release tileset base 01_756
+  - first:
+      213: -1947453680797801535
+    second: Itch release tileset base 01_757
+  - first:
+      213: -7416708879146442503
+    second: Itch release tileset base 01_758
+  - first:
+      213: -1230310867792251678
+    second: Itch release tileset base 01_759
+  - first:
+      213: -753944733135486364
+    second: Itch release tileset base 01_760
+  - first:
+      213: -3349929726771805197
+    second: Itch release tileset base 01_761
+  - first:
+      213: 6178975631260574510
+    second: Itch release tileset base 01_762
+  - first:
+      213: -9212528464173574285
+    second: Itch release tileset base 01_763
+  - first:
+      213: -4854687505488388513
+    second: Itch release tileset base 01_764
+  - first:
+      213: -8640656557916208670
+    second: Itch release tileset base 01_765
+  - first:
+      213: -3363508237697896561
+    second: Itch release tileset base 01_766
+  - first:
+      213: 5163262615743167877
+    second: Itch release tileset base 01_767
+  - first:
+      213: 8694719684549560137
+    second: Itch release tileset base 01_768
+  - first:
+      213: 597002272640941031
+    second: Itch release tileset base 01_769
+  - first:
+      213: -5601420507498455219
+    second: Itch release tileset base 01_770
+  - first:
+      213: 6760625128582115463
+    second: Itch release tileset base 01_771
+  - first:
+      213: 7980622538574753113
+    second: Itch release tileset base 01_772
+  - first:
+      213: -2309471283993677051
+    second: Itch release tileset base 01_773
+  - first:
+      213: 3648795681724073917
+    second: Itch release tileset base 01_774
+  - first:
+      213: -4720967785614256444
+    second: Itch release tileset base 01_775
+  - first:
+      213: -4284927492634806181
+    second: Itch release tileset base 01_776
+  - first:
+      213: 4560099085760742564
+    second: Itch release tileset base 01_777
+  - first:
+      213: -3978381772529708270
+    second: Itch release tileset base 01_778
+  - first:
+      213: 6335677426500368880
+    second: Itch release tileset base 01_779
+  - first:
+      213: -1264735360950695775
+    second: Itch release tileset base 01_780
+  - first:
+      213: -20552339308567454
+    second: Itch release tileset base 01_781
+  - first:
+      213: 1289259152638148877
+    second: Itch release tileset base 01_782
+  - first:
+      213: -4605973769698096099
+    second: Itch release tileset base 01_783
+  - first:
+      213: 8007337349238900773
+    second: Itch release tileset base 01_784
+  - first:
+      213: 3154017470230379768
+    second: Itch release tileset base 01_785
+  - first:
+      213: -2009996963921825993
+    second: Itch release tileset base 01_786
+  - first:
+      213: 3584741887145587174
+    second: Itch release tileset base 01_787
+  - first:
+      213: 2568208996693100199
+    second: Itch release tileset base 01_788
+  - first:
+      213: -8190490129136275302
+    second: Itch release tileset base 01_789
+  - first:
+      213: -7658044449768830464
+    second: Itch release tileset base 01_790
+  - first:
+      213: 3929893268207675263
+    second: Itch release tileset base 01_791
+  - first:
+      213: -7294248307670580881
+    second: Itch release tileset base 01_792
+  - first:
+      213: -8750470086670065495
+    second: Itch release tileset base 01_793
+  - first:
+      213: -3935114262977226745
+    second: Itch release tileset base 01_794
+  - first:
+      213: 4491994533392452157
+    second: Itch release tileset base 01_795
+  - first:
+      213: 7868075311209227810
+    second: Itch release tileset base 01_796
+  - first:
+      213: -4699219719441568424
+    second: Itch release tileset base 01_797
+  - first:
+      213: 8063314078921325382
+    second: Itch release tileset base 01_798
+  - first:
+      213: -5704063657112945954
+    second: Itch release tileset base 01_799
+  - first:
+      213: -6293219867506563061
+    second: Itch release tileset base 01_800
+  - first:
+      213: -8539191725118601758
+    second: Itch release tileset base 01_801
+  - first:
+      213: -278343056662296558
+    second: Itch release tileset base 01_802
+  - first:
+      213: 2814750527742679871
+    second: Itch release tileset base 01_803
+  - first:
+      213: -2007742833569694409
+    second: Itch release tileset base 01_804
+  - first:
+      213: 1902102982980744198
+    second: Itch release tileset base 01_805
+  - first:
+      213: -5762891072061197006
+    second: Itch release tileset base 01_806
+  - first:
+      213: -2605717427761349724
+    second: Itch release tileset base 01_807
+  - first:
+      213: 6175496014494164057
+    second: Itch release tileset base 01_808
+  - first:
+      213: 8858052135920465959
+    second: Itch release tileset base 01_809
+  - first:
+      213: 1558045981854735123
+    second: Itch release tileset base 01_810
+  - first:
+      213: 6228704838939311349
+    second: Itch release tileset base 01_811
+  - first:
+      213: -7237437501312618047
+    second: Itch release tileset base 01_812
+  - first:
+      213: 2746600943783424045
+    second: Itch release tileset base 01_813
+  - first:
+      213: 6608767658874373371
+    second: Itch release tileset base 01_814
+  - first:
+      213: -309454456609082180
+    second: Itch release tileset base 01_815
+  - first:
+      213: -1668266274809862879
+    second: Itch release tileset base 01_816
+  - first:
+      213: 5375525213042700760
+    second: Itch release tileset base 01_817
+  - first:
+      213: 4282924285929963719
+    second: Itch release tileset base 01_818
+  - first:
+      213: -3157718438867589587
+    second: Itch release tileset base 01_819
+  - first:
+      213: -1146452647750631969
+    second: Itch release tileset base 01_820
+  - first:
+      213: -5352419020761404892
+    second: Itch release tileset base 01_821
+  - first:
+      213: 7611456791413574422
+    second: Itch release tileset base 01_822
+  - first:
+      213: -1126802069270778766
+    second: Itch release tileset base 01_823
+  - first:
+      213: -1781793831260090010
+    second: Itch release tileset base 01_824
+  - first:
+      213: -8628315174684928499
+    second: Itch release tileset base 01_825
+  - first:
+      213: 1819151641283764229
+    second: Itch release tileset base 01_826
+  - first:
+      213: -4550601289361371897
+    second: Itch release tileset base 01_827
+  - first:
+      213: -4626226718515867300
+    second: Itch release tileset base 01_828
+  - first:
+      213: -986605765995670318
+    second: Itch release tileset base 01_829
+  - first:
+      213: 5269738848405290510
+    second: Itch release tileset base 01_830
+  - first:
+      213: 8761691650247543667
+    second: Itch release tileset base 01_831
+  - first:
+      213: -5146228647172433926
+    second: Itch release tileset base 01_832
+  - first:
+      213: 1850885946608092319
+    second: Itch release tileset base 01_833
+  - first:
+      213: -8644141958273409624
+    second: Itch release tileset base 01_834
+  - first:
+      213: 2984987132703734465
+    second: Itch release tileset base 01_835
+  - first:
+      213: -5049606436550319795
+    second: Itch release tileset base 01_836
+  - first:
+      213: -8888529606821237518
+    second: Itch release tileset base 01_837
+  - first:
+      213: 890147207864886090
+    second: Itch release tileset base 01_838
+  - first:
+      213: -1269188574581702813
+    second: Itch release tileset base 01_839
+  - first:
+      213: 3415993908411974920
+    second: Itch release tileset base 01_840
+  - first:
+      213: 7574181519106326276
+    second: Itch release tileset base 01_841
+  - first:
+      213: -6181408399913702303
+    second: Itch release tileset base 01_842
+  - first:
+      213: 1095696618227761147
+    second: Itch release tileset base 01_843
+  - first:
+      213: -7164266735543585266
+    second: Itch release tileset base 01_844
+  - first:
+      213: 864420259196969436
+    second: Itch release tileset base 01_845
+  - first:
+      213: -1588898104122951495
+    second: Itch release tileset base 01_846
+  - first:
+      213: -3597929167710052890
+    second: Itch release tileset base 01_847
+  - first:
+      213: 7207306134284714576
+    second: Itch release tileset base 01_848
+  - first:
+      213: -1170209035667700925
+    second: Itch release tileset base 01_849
+  - first:
+      213: -9166715883834894375
+    second: Itch release tileset base 01_850
+  - first:
+      213: 5935743704691336775
+    second: Itch release tileset base 01_851
+  - first:
+      213: -7863233394779184855
+    second: Itch release tileset base 01_852
+  - first:
+      213: 8166582337660441108
+    second: Itch release tileset base 01_853
+  - first:
+      213: 2572633760212409828
+    second: Itch release tileset base 01_854
+  - first:
+      213: 3515089157690002106
+    second: Itch release tileset base 01_855
+  - first:
+      213: 3540617735771044606
+    second: Itch release tileset base 01_856
+  - first:
+      213: 859514633459689689
+    second: Itch release tileset base 01_857
+  - first:
+      213: 3487430680511387813
+    second: Itch release tileset base 01_858
+  - first:
+      213: 6138109917556605122
+    second: Itch release tileset base 01_859
+  - first:
+      213: 985139419771573939
+    second: Itch release tileset base 01_860
+  - first:
+      213: 7491055545957913998
+    second: Itch release tileset base 01_861
+  - first:
+      213: 2975121102444621833
+    second: Itch release tileset base 01_862
+  - first:
+      213: -2764947720227126117
+    second: Itch release tileset base 01_863
+  - first:
+      213: 3586229508293475337
+    second: Itch release tileset base 01_864
+  - first:
+      213: 389394457408975618
+    second: Itch release tileset base 01_865
+  - first:
+      213: -7080480922133850905
+    second: Itch release tileset base 01_866
+  - first:
+      213: -957859482906801249
+    second: Itch release tileset base 01_867
+  - first:
+      213: -3206726984135715743
+    second: Itch release tileset base 01_868
+  - first:
+      213: 87309001503004895
+    second: Itch release tileset base 01_869
+  - first:
+      213: -6355474863839941308
+    second: Itch release tileset base 01_870
+  - first:
+      213: -4470008425898818225
+    second: Itch release tileset base 01_871
+  - first:
+      213: -5324928023995859422
+    second: Itch release tileset base 01_872
+  - first:
+      213: 3827800031949589321
+    second: Itch release tileset base 01_873
+  - first:
+      213: 5476833430882315292
+    second: Itch release tileset base 01_874
+  - first:
+      213: -8012984220478808792
+    second: Itch release tileset base 01_875
+  - first:
+      213: 4973609093665987812
+    second: Itch release tileset base 01_876
+  - first:
+      213: 1944097599765402911
+    second: Itch release tileset base 01_877
+  - first:
+      213: 3164868636102628864
+    second: Itch release tileset base 01_878
+  - first:
+      213: -5366434892919467623
+    second: Itch release tileset base 01_879
+  - first:
+      213: 1987109809401874431
+    second: Itch release tileset base 01_880
+  - first:
+      213: -8588667676480608622
+    second: Itch release tileset base 01_881
+  - first:
+      213: -5534379540025158434
+    second: Itch release tileset base 01_882
+  - first:
+      213: -1281173258993159845
+    second: Itch release tileset base 01_883
+  - first:
+      213: -3896437754501372000
+    second: Itch release tileset base 01_884
+  - first:
+      213: -5974076138871918888
+    second: Itch release tileset base 01_885
+  - first:
+      213: 7304011323836822843
+    second: Itch release tileset base 01_886
+  - first:
+      213: -4438026494673551569
+    second: Itch release tileset base 01_887
+  - first:
+      213: -8458817641187222225
+    second: Itch release tileset base 01_888
+  - first:
+      213: -3376447453919575678
+    second: Itch release tileset base 01_889
+  - first:
+      213: 8336948657708538469
+    second: Itch release tileset base 01_890
+  - first:
+      213: -6636067030748334509
+    second: Itch release tileset base 01_891
+  - first:
+      213: -2241408527018524816
+    second: Itch release tileset base 01_892
+  - first:
+      213: -6771379099220395023
+    second: Itch release tileset base 01_893
+  - first:
+      213: 3030630229654872002
+    second: Itch release tileset base 01_894
+  - first:
+      213: -1405467755987467450
+    second: Itch release tileset base 01_895
+  - first:
+      213: 3858904672602242782
+    second: Itch release tileset base 01_896
+  - first:
+      213: -7269041429048126651
+    second: Itch release tileset base 01_897
+  - first:
+      213: 555791704810532629
+    second: Itch release tileset base 01_898
+  - first:
+      213: -555345704741391524
+    second: Itch release tileset base 01_899
+  - first:
+      213: -4918683606316442979
+    second: Itch release tileset base 01_900
+  - first:
+      213: -5106276017071246747
+    second: Itch release tileset base 01_901
+  - first:
+      213: 5436879935902045226
+    second: Itch release tileset base 01_902
+  - first:
+      213: -81209431156339055
+    second: Itch release tileset base 01_903
+  - first:
+      213: -1510578084718565006
+    second: Itch release tileset base 01_904
+  - first:
+      213: -6635581992647989279
+    second: Itch release tileset base 01_905
+  - first:
+      213: -894297469313088980
+    second: Itch release tileset base 01_906
+  - first:
+      213: 190010580309413912
+    second: Itch release tileset base 01_907
+  - first:
+      213: -8572234342692389578
+    second: Itch release tileset base 01_908
+  - first:
+      213: -7368948197590386551
+    second: Itch release tileset base 01_909
+  - first:
+      213: 4032758050445656043
+    second: Itch release tileset base 01_910
+  - first:
+      213: 4002418557886209462
+    second: Itch release tileset base 01_911
+  - first:
+      213: -4087900744836121480
+    second: Itch release tileset base 01_912
+  - first:
+      213: 2303044414159639583
+    second: Itch release tileset base 01_913
+  - first:
+      213: -1195431512873090609
+    second: Itch release tileset base 01_914
+  - first:
+      213: -3463210869830877481
+    second: Itch release tileset base 01_915
+  - first:
+      213: 8972976857746615286
+    second: Itch release tileset base 01_916
+  - first:
+      213: -5423463909836783323
+    second: Itch release tileset base 01_917
+  - first:
+      213: -751762305781002931
+    second: Itch release tileset base 01_918
+  - first:
+      213: 2254667644926844843
+    second: Itch release tileset base 01_919
+  - first:
+      213: 3183970417874217
+    second: Itch release tileset base 01_920
+  - first:
+      213: -858913451847906863
+    second: Itch release tileset base 01_921
+  - first:
+      213: -3704206830173509126
+    second: Itch release tileset base 01_922
+  - first:
+      213: 5586308414613871559
+    second: Itch release tileset base 01_923
+  - first:
+      213: 1332540763428071027
+    second: Itch release tileset base 01_924
+  - first:
+      213: -7279036807162745599
+    second: Itch release tileset base 01_925
+  - first:
+      213: -1414596696460035436
+    second: Itch release tileset base 01_926
+  - first:
+      213: -5387855333559208413
+    second: Itch release tileset base 01_927
+  - first:
+      213: 1295302467906420895
+    second: Itch release tileset base 01_928
+  - first:
+      213: -1103302606106987526
+    second: Itch release tileset base 01_929
+  - first:
+      213: -3827699579910345401
+    second: Itch release tileset base 01_930
+  - first:
+      213: 3175175989623144872
+    second: Itch release tileset base 01_931
+  - first:
+      213: -5180336473466183906
+    second: Itch release tileset base 01_932
+  - first:
+      213: 4903992138238913794
+    second: Itch release tileset base 01_933
+  - first:
+      213: -2048242925302309570
+    second: Itch release tileset base 01_934
+  - first:
+      213: 2565153564744575450
+    second: Itch release tileset base 01_935
+  - first:
+      213: -9216160137746687655
+    second: Itch release tileset base 01_936
+  - first:
+      213: -4605129535128245629
+    second: Itch release tileset base 01_937
+  - first:
+      213: -7672513950614171517
+    second: Itch release tileset base 01_938
+  - first:
+      213: 2089011496021356704
+    second: Itch release tileset base 01_939
+  - first:
+      213: 1344195794610929253
+    second: Itch release tileset base 01_940
+  - first:
+      213: 5549721010099224272
+    second: Itch release tileset base 01_941
+  - first:
+      213: -1665504387724118426
+    second: Itch release tileset base 01_942
+  - first:
+      213: 211464721755181743
+    second: Itch release tileset base 01_943
+  - first:
+      213: 1251565264910440708
+    second: Itch release tileset base 01_944
+  - first:
+      213: 4190584729703384654
+    second: Itch release tileset base 01_945
+  - first:
+      213: 1443526599978269573
+    second: Itch release tileset base 01_946
+  - first:
+      213: -4021491950350409523
+    second: Itch release tileset base 01_947
+  - first:
+      213: -8180165527988085929
+    second: Itch release tileset base 01_948
+  - first:
+      213: -453903951264996253
+    second: Itch release tileset base 01_949
+  - first:
+      213: 8017195701086783844
+    second: Itch release tileset base 01_950
+  - first:
+      213: -6213546729250991072
+    second: Itch release tileset base 01_951
+  - first:
+      213: 4640552098813506434
+    second: Itch release tileset base 01_952
+  - first:
+      213: 6049382379621340290
+    second: Itch release tileset base 01_953
+  - first:
+      213: 2710866255558815985
+    second: Itch release tileset base 01_954
+  - first:
+      213: -6396194786956612740
+    second: Itch release tileset base 01_955
+  - first:
+      213: 1970638231521901096
+    second: Itch release tileset base 01_956
+  - first:
+      213: -7091326918002137740
+    second: Itch release tileset base 01_957
+  - first:
+      213: -8700725230363626566
+    second: Itch release tileset base 01_958
+  - first:
+      213: -37055016501276189
+    second: Itch release tileset base 01_959
+  - first:
+      213: -2103911427035183585
+    second: Itch release tileset base 01_960
+  - first:
+      213: -3484306766325090726
+    second: Itch release tileset base 01_961
+  - first:
+      213: 218240848658530441
+    second: Itch release tileset base 01_962
+  - first:
+      213: 4674143692658267422
+    second: Itch release tileset base 01_963
+  - first:
+      213: -2466410213065960568
+    second: Itch release tileset base 01_964
+  - first:
+      213: -803210704222646710
+    second: Itch release tileset base 01_965
+  - first:
+      213: -2003113803501487026
+    second: Itch release tileset base 01_966
+  - first:
+      213: 6241209351382020106
+    second: Itch release tileset base 01_967
+  - first:
+      213: -4394761613839390961
+    second: Itch release tileset base 01_968
+  - first:
+      213: 4191188205201249301
+    second: Itch release tileset base 01_969
+  - first:
+      213: 4146598322938688455
+    second: Itch release tileset base 01_970
+  - first:
+      213: 1185291240886398945
+    second: Itch release tileset base 01_971
+  - first:
+      213: -4175987491646230160
+    second: Itch release tileset base 01_972
+  - first:
+      213: -4041488211314107440
+    second: Itch release tileset base 01_973
+  - first:
+      213: 7721904446373604031
+    second: Itch release tileset base 01_974
+  - first:
+      213: 5110482587620006887
+    second: Itch release tileset base 01_975
+  - first:
+      213: 400462709586143132
+    second: Itch release tileset base 01_976
+  - first:
+      213: 629312701519519652
+    second: Itch release tileset base 01_977
+  - first:
+      213: -1563179041679397951
+    second: Itch release tileset base 01_978
+  - first:
+      213: 3586382121656346610
+    second: Itch release tileset base 01_979
+  - first:
+      213: -8341251159352094050
+    second: Itch release tileset base 01_980
+  - first:
+      213: -4597661385508782983
+    second: Itch release tileset base 01_981
+  - first:
+      213: -1374379766929656539
+    second: Itch release tileset base 01_982
+  - first:
+      213: 7539760573727563621
+    second: Itch release tileset base 01_983
+  - first:
+      213: -4491505821588174157
+    second: Itch release tileset base 01_984
+  - first:
+      213: 7286401301081433047
+    second: Itch release tileset base 01_985
+  - first:
+      213: -2855243699188308520
+    second: Itch release tileset base 01_986
+  - first:
+      213: 3768619005411839944
+    second: Itch release tileset base 01_987
+  - first:
+      213: -1653204293060327716
+    second: Itch release tileset base 01_988
+  - first:
+      213: 3095520835301719883
+    second: Itch release tileset base 01_989
+  - first:
+      213: -7574720449359502421
+    second: Itch release tileset base 01_990
+  - first:
+      213: 7166147447328437642
+    second: Itch release tileset base 01_991
+  - first:
+      213: -1574433052439763492
+    second: Itch release tileset base 01_992
+  - first:
+      213: 8360974237143875168
+    second: Itch release tileset base 01_993
+  - first:
+      213: 1347516077535486429
+    second: Itch release tileset base 01_994
+  - first:
+      213: -5262409601364315915
+    second: Itch release tileset base 01_995
+  - first:
+      213: -7276353408337233361
+    second: Itch release tileset base 01_996
+  - first:
+      213: 3652783617686431180
+    second: Itch release tileset base 01_997
+  - first:
+      213: 552847088788363129
+    second: Itch release tileset base 01_998
+  - first:
+      213: -4113525339095057471
+    second: Itch release tileset base 01_999
+  - first:
+      213: 7032030511675341807
+    second: Itch release tileset base 01_1000
+  - first:
+      213: 5864723467872134945
+    second: Itch release tileset base 01_1001
+  - first:
+      213: -4172786970206351480
+    second: Itch release tileset base 01_1002
+  - first:
+      213: -1664456182014427575
+    second: Itch release tileset base 01_1003
+  - first:
+      213: -1684273119646659511
+    second: Itch release tileset base 01_1004
+  - first:
+      213: 6732549682262502721
+    second: Itch release tileset base 01_1005
+  - first:
+      213: -3011447018800591975
+    second: Itch release tileset base 01_1006
+  - first:
+      213: 216762321876533503
+    second: Itch release tileset base 01_1007
+  - first:
+      213: 1047572921733114255
+    second: Itch release tileset base 01_1008
+  - first:
+      213: 602998915624130350
+    second: Itch release tileset base 01_1009
+  - first:
+      213: -12277859840081210
+    second: Itch release tileset base 01_1010
+  - first:
+      213: -3260705788588310679
+    second: Itch release tileset base 01_1011
+  - first:
+      213: 1583904677169529481
+    second: Itch release tileset base 01_1012
+  - first:
+      213: 8278521104193490297
+    second: Itch release tileset base 01_1013
+  - first:
+      213: -1487603538404638856
+    second: Itch release tileset base 01_1014
+  - first:
+      213: 163915239538894997
+    second: Itch release tileset base 01_1015
+  - first:
+      213: 3449128858268462775
+    second: Itch release tileset base 01_1016
+  - first:
+      213: -6034050238258513628
+    second: Itch release tileset base 01_1017
+  - first:
+      213: -3589282316638692915
+    second: Itch release tileset base 01_1018
+  - first:
+      213: -1289527444242624017
+    second: Itch release tileset base 01_1019
+  - first:
+      213: -3399240865454119503
+    second: Itch release tileset base 01_1020
+  - first:
+      213: -4577574027899650672
+    second: Itch release tileset base 01_1021
+  - first:
+      213: -5836662850631495909
+    second: Itch release tileset base 01_1022
+  - first:
+      213: -4088939404945718132
+    second: Itch release tileset base 01_1023
+  - first:
+      213: -1680128034651584383
+    second: Itch release tileset base 01_1024
+  - first:
+      213: 2986402615903683476
+    second: Itch release tileset base 01_1025
+  - first:
+      213: -2406170812914711448
+    second: Itch release tileset base 01_1026
+  - first:
+      213: 701310599638133199
+    second: Itch release tileset base 01_1027
+  - first:
+      213: -3169099320395161910
+    second: Itch release tileset base 01_1028
+  - first:
+      213: 5308774357178805277
+    second: Itch release tileset base 01_1029
+  - first:
+      213: 8431528300994741163
+    second: Itch release tileset base 01_1030
+  - first:
+      213: 221524861344668127
+    second: Itch release tileset base 01_1031
+  - first:
+      213: 4824145439284452145
+    second: Itch release tileset base 01_1032
+  - first:
+      213: -7690146118769868105
+    second: Itch release tileset base 01_1033
+  - first:
+      213: -7591145379710169854
+    second: Itch release tileset base 01_1034
+  - first:
+      213: -1501989486697274325
+    second: Itch release tileset base 01_1035
+  - first:
+      213: -1327791565435849446
+    second: Itch release tileset base 01_1036
+  - first:
+      213: 7057024652269791043
+    second: Itch release tileset base 01_1037
+  - first:
+      213: 5964352739838652437
+    second: Itch release tileset base 01_1038
+  - first:
+      213: -440179315440278992
+    second: Itch release tileset base 01_1039
+  - first:
+      213: -9148685425023844386
+    second: Itch release tileset base 01_1040
+  - first:
+      213: -8741703325198632225
+    second: Itch release tileset base 01_1041
+  - first:
+      213: -7759639389217750883
+    second: Itch release tileset base 01_1042
+  - first:
+      213: 3670373021362856213
+    second: Itch release tileset base 01_1043
+  - first:
+      213: -1058051496157777540
+    second: Itch release tileset base 01_1044
+  - first:
+      213: -8213689189107147210
+    second: Itch release tileset base 01_1045
+  - first:
+      213: 1396165243230188938
+    second: Itch release tileset base 01_1046
+  - first:
+      213: -546249523992790607
+    second: Itch release tileset base 01_1047
+  - first:
+      213: 6497803959255903520
+    second: Itch release tileset base 01_1048
+  - first:
+      213: -2363149314389621513
+    second: Itch release tileset base 01_1049
+  - first:
+      213: 2757814144856879814
+    second: Itch release tileset base 01_1050
+  - first:
+      213: 6710768682628555668
+    second: Itch release tileset base 01_1051
+  - first:
+      213: 9151891973703701460
+    second: Itch release tileset base 01_1052
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Itch release tileset base 01_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb5cb0999861de80800000000000000
+      internalID: -8155622441423709208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 248
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26182283957357660800000000000000
+      internalID: 7382868020477198690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd8095a49f188ad0800000000000000
+      internalID: -2699873253315277360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8fba720e3043ea0800000000000000
+      internalID: -5894081751047997224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c5034e8823a1c0800000000000000
+      internalID: -4493703411710704600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f506429771109a70800000000000000
+      internalID: 8831578074526385651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba10567bfbd7220800000000000000
+      internalID: 2485353363772910366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e42e62c5c954e90800000000000000
+      internalID: -7042050522720612769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35633734cfb269df0800000000000000
+      internalID: -173903173143808429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521eb5bf86af0580800000000000000
+      internalID: -8858678805854809519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f6438a7eb6e68d0800000000000000
+      internalID: -2851222871375319261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b547e5b0fc19bde0800000000000000
+      internalID: -1316989595859597899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a1c2565c3c7be0800000000000000
+      internalID: -1478240236231088654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddfe9cdf6a0d6730800000000000000
+      internalID: 3993859920106552788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 216
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9546634f98a35e00800000000000000
+      internalID: 1032354141582017950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e5e59055ddc800800000000000000
+      internalID: 634397664618079765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569dffac83008340800000000000000
+      internalID: 4863891500343072350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc1166059646ab0800000000000000
+      internalID: -5015768290953147081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1896cb4dfd542dc0800000000000000
+      internalID: -3664700854293325797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0556cdab95c1cf0800000000000000
+      internalID: -280250417707396907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4142e9af432de8970800000000000000
+      internalID: 8759169450266993684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906018406bd3b4270800000000000000
+      internalID: 8235744195545990665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e711e935204ad40800000000000000
+      internalID: 5594599195258486335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42678754cc428c0800000000000000
+      internalID: -4024867568216562482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb378d9a4e8f6340800000000000000
+      internalID: 4859258974077664253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4455f323c37b60800000000000000
+      internalID: 7742746743587228328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba53031663921960800000000000000
+      internalID: 7571275990178159289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf721f1ba82bd060800000000000000
+      internalID: 6979216762966540239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3d422bc714e0d0800000000000000
+      internalID: -3394562057909223723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73125bd1c1c427df0800000000000000
+      internalID: -184000951127563977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01b81999fa33690800000000000000
+      internalID: -7623556670101450559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 152
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50398c02bde437c50800000000000000
+      internalID: 6661754976865915653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 200
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f2ec95daa43cd0800000000000000
+      internalID: -2579248852139575761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc3bee230bc3e1c0800000000000000
+      internalID: -4475510390143632166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 200
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8664c41a0cd3ca0800000000000000
+      internalID: -6035456126604646171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c79ecaab542756b0800000000000000
+      internalID: -5307733659706550334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0e04d7f524c09e0800000000000000
+      internalID: -1653873985261084511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e035e1ef62d9c780800000000000000
+      internalID: -8662161030297341728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 104
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae93ac88ae1c160800000000000000
+      internalID: 7044169165413411575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 104
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09201122d2a5fd020800000000000000
+      internalID: 2368711078911738512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba01d2bc99217680800000000000000
+      internalID: -8759174047267222861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699ce1cfa53243c0800000000000000
+      internalID: -4376876858861643420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83030d75ab56692f0800000000000000
+      internalID: -966473219012808648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba547acd06998d730800000000000000
+      internalID: 4024134908353398187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1857b4765dd7f980800000000000000
+      internalID: -8505086007870793700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fcf249705e94320800000000000000
+      internalID: 2542815285341048719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f4c6befc0de240800000000000000
+      internalID: 4822525064111256374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 104
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be8686861fe81760800000000000000
+      internalID: 7428950465372917428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74faf032cc7415100800000000000000
+      internalID: 94936009238622023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 88
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c417b331a3f53c0800000000000000
+      internalID: -4368709259250021341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 70
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3ee37d55c19060800000000000000
+      internalID: 6958559904431749902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 50
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664c4ddfdcd8a4450800000000000000
+      internalID: 6073822963328926822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3e6c6cb347f950800000000000000
+      internalID: 6482724665175195043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2009fbfb8e7beba0800000000000000
+      internalID: -6058609734003916758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ef91650b44a850800000000000000
+      internalID: 6387312658002994122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 8
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5bba2961b0d8e0800000000000000
+      internalID: -1670640396507849214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_56
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 8
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3631639070186eae0800000000000000
+      internalID: -1520385956971670685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 8
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50e50d648d75fd0800000000000000
+      internalID: -2353174481622661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc83b628b447d860800000000000000
+      internalID: 7554582457651268851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_59
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d047d06df6053030800000000000000
+      internalID: 3473690372907417814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e06e26b552b55f0800000000000000
+      internalID: -766978237105041785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602af229e6d1d8210800000000000000
+      internalID: 1336757025135108614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db97fa152be3b5f20800000000000000
+      internalID: 3412390078258837949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3fad922fa25eb0800000000000000
+      internalID: -4732527695203714449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1585657df2c7450800000000000000
+      internalID: 6087793398211170808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 56
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7f0dead839eb80800000000000000
+      internalID: -8365092319932743759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 56
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263ca72a810357a0800000000000000
+      internalID: -6389761753425889748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 56
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed0af755b259830800000000000000
+      internalID: 4077212683867315936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 56
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dac1328b8b781e0800000000000000
+      internalID: -2195583192317252339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2e9f9a84579600800000000000000
+      internalID: 474941240071040708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2e7839737bdf10800000000000000
+      internalID: 2295555399551429862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release tileset base 01_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 85
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897daa15dff774fd0800000000000000
+      internalID: -2357775153931561064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
