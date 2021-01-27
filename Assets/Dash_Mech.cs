@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class Dash_Mech : MonoBehaviour
 {
-    public float dashDistance = 25f;        //Distance needs tuned
+    /*public float dashDistance = 25f;        //Distance needs tuned
     public bool dashKeyWasPressed;          //Dash key is space
     public class BasicMovement: MonoBehaviour; //Need to figure out how to call this script to access these variables.
 
@@ -34,5 +34,5 @@ public class Dash_Mech : MonoBehaviour
             positionChange.y = Input.GetAxisRaw("Vertical")*dashDistance;
             dashKeyWasPressed = false;
         }
-    }
+    }*/
 }
