@@ -4,12 +4,14 @@ using System.Diagnostics;
 using System.Security.Cryptography;
 using UnityEngine;
 
+
+
 public class Dash_Mech : MonoBehaviour
 {
-    /*public float dashDistance = 25f;        //Distance needs tuned
-    public bool dashKeyWasPressed;          //Dash key is space
-    public class BasicMovement: MonoBehaviour; //Need to figure out how to call this script to access these variables.
-
+    public float dashDistance = 25f;        //Distance needs tuned
+    public bool dashKeyWasPressed;       //Dash key is space
+    public Vector2 bigDash;
+    public Rigidbody2D PC;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,12 +29,15 @@ public class Dash_Mech : MonoBehaviour
     }
 
     void FixedUpdate()  // Fixed update is called at a regular interval, unless specified, 50 fps for desktop computers
+
+        //Since they are acting on the same GameObject you can grab the component like I did below. I just name PC the same thing with a rigidbody, that may be a conflict.
+        //Watch video so you can see. It "technically" works, but not really.
     {
         if (dashKeyWasPressed)
         {
-            positionChange.x = Input.GetAxisRaw("Horizontal")*dashDistance;
-            positionChange.y = Input.GetAxisRaw("Vertical")*dashDistance;
+            PC = gameObject.GetComponent<BasicMovement>().PC;
+            bigDash = PC.position * dashDistance;
             dashKeyWasPressed = false;
         }
-    }*/
+    }
 }
