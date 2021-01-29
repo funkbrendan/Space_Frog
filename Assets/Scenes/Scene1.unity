@@ -2917,10 +2917,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 899755941}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ecb139d370f6a2c49b26bf371f8e4da5, type: 3}
+  m_Script: {fileID: 11500000, guid: f9a7bad1462d30243ad9858a013072bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 1
   PC: {fileID: 899755945}
   positionChange: {x: 0, y: 0}
 --- !u!212 &899755943
@@ -3018,12 +3018,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 899755941}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e35f401090c906f4cbc9c16424acd61d, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a40a7cf65b1b264095d5f12c2cfe560, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dashDistance: 25
+  dashDistance: 3
   dashKeyWasPressed: 0
-  positionChange: {x: 0, y: 0}
+  bigDash: {x: 0, y: 0}
+  PC: {fileID: 899755945}
 --- !u!1 &1351267803
 GameObject:
   m_ObjectHideFlags: 0
@@ -6822,6 +6823,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecb139d370f6a2c49b26bf371f8e4da5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
-  PC: {fileID: 899755945}
-  positionChange: {x: 0, y: 0}

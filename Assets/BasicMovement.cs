@@ -27,6 +27,7 @@ public class BasicMovement : MonoBehaviour
     // Fixed update is called at a regular interval, unless specified, 50 fps for desktop computers
     void FixedUpdate()
     {
-       PC.position = PC.position + positionChange * moveSpeed * Time.deltaTime; //having move speed as a public variable means that we can modify it in other scripts and make the movement a little more interactive
+        //positionChange = (Input.GetAxis("Vertical"), Input.GetAxis("Horizontal")); 
+        PC.position = (PC.position + positionChange * moveSpeed * Time.deltaTime); //having move speed as a public variable means that we can modify it in other scripts and make the movement a little more interactive
     }
 }
