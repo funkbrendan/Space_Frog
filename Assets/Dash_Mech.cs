@@ -35,8 +35,9 @@ public class Dash_Mech : MonoBehaviour
     {
         if (dashKeyWasPressed)
         {
-            PC = gameObject.GetComponent<BasicMovement>().PC;
-            PC.position = PC.position * dashDistance;
+            gameObject.GetComponent<BasicMovement>().positionChange.x = Input.GetAxisRaw("Horizontal")*dashDistance;
+            gameObject.GetComponent<BasicMovement>().positionChange.y = Input.GetAxisRaw("Vertical")*dashDistance;
+           // PC.position = PC.position * dashDistance;
             dashKeyWasPressed = false;
         }
     }
